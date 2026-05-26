@@ -14,8 +14,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/nishit0411/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0412-fizz-buzz](https://github.com/nishit0411/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishit0411/leetcode-solutions/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nishit0411/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nishit0411/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
